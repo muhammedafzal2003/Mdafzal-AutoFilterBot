@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/72d3cbd3ef6154fb780cb.jpg" alt="Eva Maria Logo">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
   <b>Muhammed afzal AutoFilter Bot</b>
